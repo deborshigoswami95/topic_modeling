@@ -22,7 +22,6 @@ var/
 wheels/
 data/
 results/
-assets/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
